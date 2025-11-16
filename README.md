@@ -92,7 +92,7 @@ Data Limitations
 Data covers only one fiscal year (2023) and may not reflect long-term sales cycles or global 
 market behavior. 
 
-4. Data Splitting and Preprocessing 
+Data Splitting and Preprocessing 
 
 Data Cleaning 
 
